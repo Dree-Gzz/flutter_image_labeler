@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "681816382012",
+    "project_id": "image-labeler-c3eec",
+    "storage_bucket": "image-labeler-c3eec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681816382012:android:d20e544b7665622e7e0139",
+        "android_client_info": {
+          "package_name": "com.example.image_labeler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681816382012-4foq6njovda3ni0k0n24b9m92bveoif2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABeyBhjf85-M7WKWW9_ORDljH6HQNHRms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681816382012-4foq6njovda3ni0k0n24b9m92bveoif2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
